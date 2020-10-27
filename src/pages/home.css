@@ -1,0 +1,33 @@
+.pizzaHome {
+  text-align: center;
+}
+.pizzaHeading {
+}
+
+.form__group {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 20px 0;
+  align-items: center;
+}
+
+.form__group label {
+  font-weight: bold;
+}
+
+.form__group select {
+  padding: 5px;
+}
+
+.btn {
+  background-color: indianred;
+  padding: 10px 20px;
+  color: #fff;
+  border: none;
+  align-self: center;
+}
+
+.form__group .alignSelf {
+  align-self: center;
+  margin: 0;
+}
